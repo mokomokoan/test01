@@ -9,6 +9,3 @@ git config --global --unset svn.pathnameencoding
 
 git clone git@github.com:mokomokoan/test01.git
 cd pullreq
-
-
-update
